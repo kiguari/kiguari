@@ -1,4 +1,3 @@
-# kiguari
 HELLO FRIEND
 
 Im Vladimir and I study at the international
